@@ -1,4 +1,4 @@
-## Hello, world! Eu sou Italo Correia👋
+## Hello, world! Eu sou Italo Correia <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - 🧑🏻‍💻 Sou um desenvolvedor fullstack <br>
 - 🎓 Cursando ADS na FICR <br>
