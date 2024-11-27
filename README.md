@@ -5,8 +5,8 @@
 <!--CARDS-->
 <div align="center">
   <a href="https://github.com/italocaraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italocaraujo&show_icons=true&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italocaraujo&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italocaraujo&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italocaraujo&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -15,7 +15,8 @@
   <img align="center" alt="Italo-Django" height="30" width="30" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4"/>
   <img align="center" alt="Italo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Italo-Dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Italo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Italo-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Italo-SpringBoot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 
   <!--FRONTEND-->
   <img align="center" alt="Italo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
