@@ -11,8 +11,8 @@
 <!--CARDS-->
 <div align="center">
   <a href="https://github.com/italocaraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italocaraujo&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italocaraujo&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zecacorreia&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zecacorreia&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
