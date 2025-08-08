@@ -28,6 +28,8 @@
   <img  alt="Zeca-Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
   <img  alt="Zeca-SQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
   <img alt="Zeca-SQLLIte" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;
+  <img alt="Zeca-Nest"
+src="https://img.shields.io/badge/nest.js-%23e3234b.svg?style=for-the-badge&logo=nestjs&logoColor=white">&nbsp;
 </div>
 
 ##
