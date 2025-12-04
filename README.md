@@ -8,12 +8,18 @@
  🎓 Formando em ADS na FICR<br>
 </div>
 
-<!--CARDS-->
+<!--CARDS
 <div align="center">
   <a href="https://github.com/zecacorreia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zecacorreia&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zecacorreia&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
+</div>-->
+
+<!--<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zecacorreia/zecacorreia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zecacorreia/zecacorreia/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zecacorreia/zecacorreia/output/github-contribution-grid-snake.svg">
+</picture>-->
 
 <div style="display: inline_block" align="center"><br>
   <img aling="center" alt="Zeca-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -43,8 +49,6 @@
   <img alt="Zeca-postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">&nbsp;
   <img alt="Zeca-vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">&nbsp;
 </div>
-
-##
 
 <!--LINKS-->
 <div align="center">
