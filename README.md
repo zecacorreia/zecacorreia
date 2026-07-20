@@ -5,7 +5,7 @@
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Zeca Correia 
  💻 Sou um desenvolvedor fullstack apaixonado por matemática, design e principalmente por tecnologia<br>
- 🎓 Formando em ADS na FICR<br>
+ 🎓 Formado em ADS na FICR<br>
 </div>
 
 <div align="center">
